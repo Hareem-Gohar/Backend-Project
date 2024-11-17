@@ -1,0 +1,1659 @@
+[
+    {
+        "recipe_id": 1,
+        "recipe_name": "Chicken Biryani",
+        "image": "https://i.pinimg.com/236x/4f/09/2b/4f092b371595f0d1b2ef23f84647e141.jpg",
+        "prep_time": 30,
+        "cook_time": 60,
+        "recipe_making_time": 90,
+        "ingredients": [
+            "2 cups basmati rice",
+            "500g halal chicken, cut into pieces",
+            "2 onions, sliced",
+            "2 tomatoes, chopped",
+            "1 cup yogurt",
+            "2 tablespoons biryani masala",
+            "1 teaspoon turmeric",
+            "1 teaspoon cumin",
+            "3 cloves garlic, minced",
+            "1 tablespoon ginger paste",
+            "Fresh coriander and mint leaves",
+            "Salt",
+            "3 cups water",
+            "Cooking oil"
+        ],
+        "recipe_instructions": {
+            "steps": [
+                "Rinse the rice and soak for 30 minutes, then drain.",
+                "Heat oil in a large pot and sauté onions until golden brown.",
+                "Add garlic, ginger, cumin, and biryani masala, and cook for 2 minutes.",
+                "Add chicken, tomatoes, yogurt, turmeric, and salt. Cook until chicken is done.",
+                "In a separate pot, boil 3 cups of water, then add the soaked rice and cook until 70% done.",
+                "Layer the partially cooked rice over the chicken mixture, add chopped coriander and mint, and cover the pot tightly.",
+                "Cook on low heat for 20-25 minutes until rice is fully cooked.",
+                "Serve hot with raita or salad."
+            ]
+        },
+        "nutrition": {
+            "calories": 600,
+            "fat": "20g",
+            "carbs": "70g",
+            "protein": "30g"
+        }
+    },
+    {
+        "recipe_id": 2,
+        "recipe_name": "Beef Kebabs",
+        "image": "https://i.pinimg.com/236x/2d/ce/bc/2dcebcb26d71f253de22b6828f417427.jpg",
+        "category": "main_course",
+        "prep_time": 15,
+        "cook_time": 20,
+        "recipe_making_time": 35,
+        "ingredients": [
+            "500g minced halal beef",
+            "1 onion, finely chopped",
+            "2 cloves garlic, minced",
+            "1 teaspoon ground cumin",
+            "1 teaspoon ground coriander",
+            "1 teaspoon paprika",
+            "1/2 teaspoon black pepper",
+            "1/2 teaspoon salt",
+            "1/4 cup chopped fresh parsley",
+            "2 tablespoons olive oil"
+        ],
+        "recipe_instructions": {
+            "steps": [
+                "In a large bowl, combine minced beef, onion, garlic, cumin, coriander, paprika, pepper, salt, and parsley.",
+                "Mix well and shape into small patties or skewers.",
+                "Heat olive oil in a grill pan over medium heat.",
+                "Grill the kebabs for 5-6 minutes on each side until cooked through.",
+                "Serve hot with naan, salad, or rice."
+            ]
+        },
+        "nutrition": {
+            "calories": 450,
+            "fat": "30g",
+            "carbs": "5g",
+            "protein": "35g"
+        }
+    },
+    {
+        "recipe_id": 3,
+        "recipe_name": "Falafel Wraps",
+        "image": "https://i.pinimg.com/236x/f3/ef/13/f3ef1305a8b7bd8d25afa978a3b8f62c.jpg",
+        "category": "snack",
+        "prep_time": 20,
+        "cook_time": 10,
+        "recipe_making_time": 30,
+        "ingredients": [
+            "2 cups canned chickpeas, drained",
+            "1 small onion, chopped",
+            "2 cloves garlic, minced",
+            "1/2 cup fresh parsley",
+            "2 teaspoons ground cumin",
+            "1 teaspoon ground coriander",
+            "1/2 teaspoon baking powder",
+            "Salt",
+            "Pepper",
+            "Oil for frying",
+            "4 whole wheat tortillas",
+            "Lettuce, tomatoes, and cucumbers (for wraps)",
+            "Tahini sauce"
+        ],
+        "recipe_instructions": {
+            "steps": [
+                "In a food processor, blend chickpeas, onion, garlic, parsley, cumin, coriander, baking powder, salt, and pepper until smooth.",
+                "Shape the mixture into small balls or patties.",
+                "Heat oil in a frying pan and fry falafel until golden and crispy.",
+                "Warm the tortillas and spread a thin layer of tahini sauce.",
+                "Place falafel on the tortilla and top with lettuce, tomatoes, and cucumbers.",
+                "Roll up the wrap and serve immediately."
+            ]
+        },
+        "nutrition": {
+            "calories": 350,
+            "fat": "15g",
+            "carbs": "45g",
+            "protein": "10g"
+        }
+    },
+    {
+        "recipe_id": 4,
+        "recipe_name": "Lamb Pilaf",
+        "image": "https://i.pinimg.com/236x/f7/af/54/f7af5461032a625c1100e69ef1a1edd3.jpg",
+        "category": "main_course",
+        "prep_time": 20,
+        "cook_time": 40,
+        "recipe_making_time": 60,
+        "ingredients": [
+            "500g halal lamb, cubed",
+            "2 cups basmati rice",
+            "1 onion, chopped",
+            "1 carrot, grated",
+            "3 cloves garlic, minced",
+            "1 teaspoon cumin",
+            "1 teaspoon paprika",
+            "1/2 teaspoon cinnamon",
+            "Salt",
+            "Black pepper",
+            "3 cups chicken broth",
+            "Cooking oil",
+            "Fresh coriander for garnish"
+        ],
+        "recipe_instructions": {
+            "steps": [
+                "Rinse the rice and soak for 20 minutes, then drain.",
+                "Heat oil in a large pot and sauté onions until soft.",
+                "Add garlic, cumin, paprika, cinnamon, salt, and pepper.",
+                "Add lamb cubes and cook until browned.",
+                "Add grated carrot and cook for 2 more minutes.",
+                "Add the drained rice and stir to coat.",
+                "Pour in chicken broth, bring to a boil, then reduce heat and simmer until the rice is fully cooked.",
+                "Garnish with fresh coriander and serve hot."
+            ]
+        },
+        "nutrition": {
+            "calories": 550,
+            "fat": "18g",
+            "carbs": "65g",
+            "protein": "25g"
+        }
+    },
+    {
+        "recipe_id": 5,
+        "recipe_name": "Shawarma Wrap",
+        "image": "https://i.pinimg.com/474x/86/8a/09/868a09bd03cfc4918f1e2ad62183a151.jpg",
+        "category": "main_course",
+        "prep_time": 20,
+        "cook_time": 15,
+        "recipe_making_time": 35,
+        "ingredients": [
+            "500g halal chicken breast, sliced",
+            "1 tablespoon shawarma spice mix",
+            "2 tablespoons yogurt",
+            "1 tablespoon olive oil",
+            "4 pita breads",
+            "Lettuce, sliced tomatoes, and cucumbers",
+            "Garlic sauce or tahini"
+        ],
+        "recipe_instructions": {
+            "steps": [
+                "In a bowl, marinate the chicken with shawarma spice mix, yogurt, and olive oil for 30 minutes.",
+                "Cook the marinated chicken in a pan until fully cooked and browned.",
+                "Warm pita breads and spread garlic sauce or tahini.",
+                "Place cooked chicken, lettuce, tomatoes, and cucumbers inside the pita.",
+                "Roll up the pita and serve warm."
+            ]
+        },
+        "nutrition": {
+            "calories": 450,
+            "fat": "15g",
+            "carbs": "50g",
+            "protein": "30g"
+        }
+    },
+    {
+        "recipe_id": 6,
+        "recipe_name": "Halal Beef Stir Fry",
+        "image": "https://i.pinimg.com/236x/90/e0/56/90e056e1046073d707f1ff57ed168c6e.jpg",
+        "category": "main_course",
+        "prep_time": 15,
+        "cook_time": 10,
+        "recipe_making_time": 25,
+        "ingredients": [
+            "300g halal beef strips",
+            "1 tablespoon soy sauce",
+            "1 tablespoon oyster sauce",
+            "1 teaspoon garlic, minced",
+            "1 teaspoon ginger, minced",
+            "1 bell pepper, sliced",
+            "1 onion, sliced",
+            "2 tablespoons vegetable oil",
+            "Cooked rice (for serving)"
+        ],
+        "recipe_instructions": {
+            "steps": [
+                "In a bowl, marinate the beef strips with soy sauce and oyster sauce for 15 minutes.",
+                "Heat oil in a wok and sauté garlic and ginger until fragrant.",
+                "Add beef strips and stir-fry until browned.",
+                "Add sliced bell pepper and onion, and stir-fry for another 3-4 minutes.",
+                "Serve hot with cooked rice."
+            ]
+        },
+        "nutrition": {
+            "calories": 400,
+            "fat": "18g",
+            "carbs": "35g",
+            "protein": "25g"
+        }
+    },
+    {
+        "recipe_id": 7,
+        "recipe_name": "Tandoori Chicken",
+        "image": "https://i.pinimg.com/236x/66/d0/21/66d02136312b18e44e40b6e7d0a89d9c.jpg",
+        "category": "main_course",
+        "prep_time": 20,
+        "cook_time": 35,
+        "recipe_making_time": 55,
+        "ingredients": [
+            "500g halal chicken drumsticks",
+            "2 tablespoons tandoori masala",
+            "1 cup yogurt",
+            "1 tablespoon lemon juice",
+            "1 tablespoon olive oil",
+            "Salt",
+            "Cilantro for garnish"
+        ],
+        "recipe_instructions": {
+            "steps": [
+                "In a large bowl, mix tandoori masala, yogurt, lemon juice, olive oil, and salt.",
+                "Add the chicken drumsticks to the mixture and marinate for 1 hour.",
+                "Preheat the oven to 200°C (400°F).",
+                "Place marinated chicken on a baking sheet and bake for 35 minutes, turning halfway.",
+                "Garnish with fresh cilantro and serve hot."
+            ]
+        },
+        "nutrition": {
+            "calories": 350,
+            "fat": "12g",
+            "carbs": "10g",
+            "protein": "40g"
+        }
+    },
+    {
+        "recipe_id": 8,
+        "recipe_name": "Hummus",
+        "image": "https://i.pinimg.com/236x/b6/07/b8/b607b8e01c40928a4d46e9abff687519.jpg",
+        "category": "appetizer",
+        "prep_time": 10,
+        "cook_time": 0,
+        "recipe_making_time": 10,
+        "ingredients": [
+            "1 can chickpeas, drained",
+            "2 tablespoons tahini",
+            "2 cloves garlic, minced",
+            "2 tablespoons lemon juice",
+            "2 tablespoons olive oil",
+            "Salt",
+            "Paprika and olive oil (for garnish)"
+        ],
+        "recipe_instructions": {
+            "steps": [
+                "In a food processor, combine chickpeas, tahini, garlic, lemon juice, olive oil, and salt.",
+                "Blend until smooth and creamy.",
+                "Transfer the hummus to a serving bowl, drizzle with olive oil, and sprinkle with paprika.",
+                "Serve with pita bread or vegetable sticks."
+            ]
+        },
+        "nutrition": {
+            "calories": 200,
+            "fat": "10g",
+            "carbs": "20g",
+            "protein": "7g"
+        }
+    },
+    {
+        "recipe_id": 9,
+        "recipe_name": "Chicken Tikka",
+        "image": "https://i.pinimg.com/236x/19/77/e7/1977e7177e1a3667098184485d146f39.jpg",
+        "category": "main_course",
+        "prep_time": 30,
+        "cook_time": 20,
+        "recipe_making_time": 50,
+        "ingredients": [
+            "500g halal boneless chicken, cut into cubes",
+            "2 tablespoons tikka masala",
+            "1/2 cup yogurt",
+            "1 tablespoon lemon juice",
+            "1 tablespoon olive oil",
+            "Salt",
+            "Wooden skewers"
+        ],
+        "recipe_instructions": {
+            "steps": [
+                "In a bowl, mix tikka masala, yogurt, lemon juice, olive oil, and salt.",
+                "Add chicken cubes to the mixture and marinate for at least 1 hour.",
+                "Thread the marinated chicken onto skewers.",
+                "Grill the chicken skewers for 15-20 minutes, turning occasionally, until fully cooked.",
+                "Serve with naan or rice and a side of yogurt dip."
+            ]
+        },
+        "nutrition": {
+            "calories": 320,
+            "fat": "12g",
+            "carbs": "6g",
+            "protein": "45g"
+        }
+    },
+    {
+        "recipe_id": 10,
+        "recipe_name": "Falafel",
+        "image": "https://i.pinimg.com/236x/18/8c/2a/188c2a49ab3882225c28d93b8950862c.jpg",
+        "category": "appetizer",
+        "prep_time": 20,
+        "cook_time": 10,
+        "recipe_making_time": 30,
+        "ingredients": [
+            "1 can chickpeas, drained",
+            "1 small onion, chopped",
+            "2 cloves garlic, minced",
+            "1/4 cup fresh parsley",
+            "1 teaspoon cumin",
+            "1 teaspoon coriander",
+            "Salt",
+            "Oil for frying"
+        ],
+        "recipe_instructions": {
+            "steps": [
+                "In a food processor, blend chickpeas, onion, garlic, parsley, cumin, coriander, and salt until smooth.",
+                "Shape the mixture into small balls or patties.",
+                "Heat oil in a frying pan and fry the falafel until golden brown on all sides.",
+                "Serve with pita bread, salad, and tahini sauce."
+            ]
+        },
+        "nutrition": {
+            "calories": 200,
+            "fat": "8g",
+            "carbs": "25g",
+            "protein": "6g"
+        }
+    },
+    {
+        "recipe_id": 11,
+        "recipe_name": "Beef Kofta",
+        "image": "https://i.pinimg.com/236x/8a/29/a5/8a29a54ddc5ca892441d224383d9007d.jpg",
+        "category": "main_course",
+        "prep_time": 25,
+        "cook_time": 20,
+        "recipe_making_time": 45,
+        "ingredients": [
+            "500g halal ground beef",
+            "1 onion, finely chopped",
+            "2 cloves garlic, minced",
+            "1 teaspoon cumin",
+            "1 teaspoon paprika",
+            "1 teaspoon ground coriander",
+            "Salt",
+            "Olive oil for grilling",
+            "Wooden skewers"
+        ],
+        "recipe_instructions": {
+            "steps": [
+                "In a bowl, mix ground beef, onion, garlic, cumin, paprika, coriander, and salt.",
+                "Shape the mixture into small kofta balls or onto skewers.",
+                "Grill the koftas on medium heat for 15-20 minutes, turning occasionally.",
+                "Serve hot with rice, salad, or flatbread."
+            ]
+        },
+        "nutrition": {
+            "calories": 350,
+            "fat": "18g",
+            "carbs": "10g",
+            "protein": "35g"
+        }
+    },
+    {
+        "recipe_id": 12,
+        "recipe_name": "Harira Soup",
+        "image": "https://i.pinimg.com/236x/dd/fc/b0/ddfcb0e4226e46e6a6f95f253fc09dbc.jpg",
+        "category": "soup",
+        "prep_time": 15,
+        "cook_time": 40,
+        "recipe_making_time": 55,
+        "ingredients": [
+            "1/2 cup lentils",
+            "1/2 cup chickpeas, soaked",
+            "1 onion, chopped",
+            "2 cloves garlic, minced",
+            "1 teaspoon ground cumin",
+            "1 teaspoon turmeric",
+            "1 tablespoon tomato paste",
+            "1/2 cup vermicelli noodles",
+            "Salt",
+            "Cilantro for garnish"
+        ],
+        "recipe_instructions": {
+            "steps": [
+                "In a pot, sauté onion and garlic until soft.",
+                "Add cumin, turmeric, tomato paste, and stir for a minute.",
+                "Add lentils, chickpeas, and water to cover. Bring to a boil and simmer for 30 minutes.",
+                "Add vermicelli noodles and cook for another 10 minutes.",
+                "Serve hot, garnished with cilantro."
+            ]
+        },
+        "nutrition": {
+            "calories": 250,
+            "fat": "4g",
+            "carbs": "40g",
+            "protein": "12g"
+        }
+    },
+    {
+        "recipe_id": 13,
+        "recipe_name": "Chicken Kebab",
+        "image": "https://i.pinimg.com/236x/37/62/62/37626244f214195d2cf6207ef055ec9c.jpg",
+        "category": "main_course",
+        "prep_time": 25,
+        "cook_time": 15,
+        "recipe_making_time": 40,
+        "ingredients": [
+            "500g halal chicken breast, cubed",
+            "2 tablespoons yogurt",
+            "1 tablespoon lemon juice",
+            "1 teaspoon cumin",
+            "1 teaspoon paprika",
+            "1 teaspoon garlic powder",
+            "Salt",
+            "Skewers"
+        ],
+        "recipe_instructions": {
+            "steps": [
+                "In a bowl, combine yogurt, lemon juice, cumin, paprika, garlic powder, and salt.",
+                "Add the chicken cubes and marinate for 1 hour.",
+                "Thread the chicken onto skewers and grill for 12-15 minutes, turning occasionally.",
+                "Serve with naan or rice and a side of chutney."
+            ]
+        },
+        "nutrition": {
+            "calories": 320,
+            "fat": "10g",
+            "carbs": "5g",
+            "protein": "50g"
+        }
+    },
+    {
+        "recipe_id": 14,
+        "recipe_name": "Lamb Biryani",
+        "image": "https://i.pinimg.com/236x/bd/5d/98/bd5d984fa55d854e55ec11c34286e1e0.jpg",
+        "category": "main_course",
+        "prep_time": 30,
+        "cook_time": 50,
+        "recipe_making_time": 80,
+        "ingredients": [
+            "500g halal lamb, cubed",
+            "2 cups basmati rice",
+            "1 large onion, chopped",
+            "1 teaspoon cumin",
+            "1 teaspoon garam masala",
+            "2 cloves garlic, minced",
+            "1 tablespoon ginger, minced",
+            "1 cup yogurt",
+            "Fresh cilantro for garnish"
+        ],
+        "recipe_instructions": {
+            "steps": [
+                "Cook the basmati rice until half done, then set aside.",
+                "In a pot, sauté onion, garlic, and ginger until fragrant.",
+                "Add cumin, garam masala, and lamb cubes, and cook until lamb is browned.",
+                "Add yogurt and simmer the lamb until tender, about 30 minutes.",
+                "Layer the lamb with the half-cooked rice, cover, and steam for 15 minutes.",
+                "Garnish with fresh cilantro and serve hot."
+            ]
+        },
+        "nutrition": {
+            "calories": 500,
+            "fat": "18g",
+            "carbs": "60g",
+            "protein": "30g"
+        }
+    },
+    {
+        "recipe_id": 15,
+        "recipe_name": "Halal Butter Chicken",
+        "image": "https://i.pinimg.com/236x/ec/00/f7/ec00f7f04cd14acc7bcaa1632e32786e.jpg",
+        "category": "main_course",
+        "prep_time": 20,
+        "cook_time": 30,
+        "recipe_making_time": 50,
+        "ingredients": [
+            "500g halal chicken breast, cubed",
+            "1 cup tomato sauce",
+            "1/2 cup cream",
+            "2 tablespoons butter",
+            "1 tablespoon garam masala",
+            "1 teaspoon garlic, minced",
+            "1 teaspoon ginger, minced",
+            "Salt",
+            "Fresh coriander for garnish"
+        ],
+        "recipe_instructions": {
+            "steps": [
+                "In a pan, melt butter and sauté garlic and ginger until fragrant.",
+                "Add tomato sauce, garam masala, and salt. Simmer for 10 minutes.",
+                "Add the chicken cubes and cook for 15-20 minutes until chicken is fully cooked.",
+                "Stir in cream and simmer for an additional 5 minutes.",
+                "Garnish with fresh coriander and serve with naan or rice."
+            ]
+        },
+        "nutrition": {
+            "calories": 450,
+            "fat": "25g",
+            "carbs": "15g",
+            "protein": "40g"
+        }
+    },
+    {
+        "recipe_id": 16,
+        "recipe_name": "Halal Fish Curry",
+        "image": "https://i.pinimg.com/236x/4f/3c/23/4f3c23b124b0f4236dd292cf0aff1ddc.jpg",
+        "category": "main_course",
+        "prep_time": 15,
+        "cook_time": 20,
+        "recipe_making_time": 35,
+        "ingredients": [
+            "500g halal white fish fillets",
+            "1 onion, chopped",
+            "2 tomatoes, chopped",
+            "1 tablespoon curry powder",
+            "1 teaspoon turmeric",
+            "1 teaspoon garlic, minced",
+            "1 teaspoon ginger, minced",
+            "Coconut milk (optional)",
+            "Fresh coriander for garnish"
+        ],
+        "recipe_instructions": {
+            "steps": [
+                "In a pan, sauté onion, garlic, and ginger until soft.",
+                "Add curry powder, turmeric, and tomatoes, and cook for 5 minutes.",
+                "Add the fish fillets and cook for 10-15 minutes until fully cooked.",
+                "If desired, stir in coconut milk and simmer for an additional 5 minutes.",
+                "Garnish with fresh coriander and serve with rice."
+            ]
+        },
+        "nutrition": {
+            "calories": 320,
+            "fat": "12g",
+            "carbs": "10g",
+            "protein": "40g"
+        }
+    },
+    {
+        "recipe_id": 17,
+        "recipe_name": "Spicy Beef Shawarma",
+        "image": "https://i.pinimg.com/236x/9b/81/9d/9b819d7771823ffb98af049fdf9f65be.jpg",
+        "category": "main_course",
+        "prep_time": 20,
+        "cook_time": 25,
+        "recipe_making_time": 45,
+        "ingredients": [
+            "500g halal beef, thinly sliced",
+            "2 tablespoons shawarma seasoning",
+            "1 tablespoon olive oil",
+            "1/2 cup yogurt",
+            "2 garlic cloves, minced",
+            "Salt",
+            "Pita bread",
+            "Tahini sauce for serving"
+        ],
+        "recipe_instructions": {
+            "steps": [
+                "Marinate the beef slices in shawarma seasoning, yogurt, garlic, and olive oil for 1 hour.",
+                "Heat a pan and cook the beef until fully cooked and browned, about 20-25 minutes.",
+                "Warm the pita bread and fill with the cooked beef.",
+                "Serve with tahini sauce and a side of salad."
+            ]
+        },
+        "nutrition": {
+            "calories": 400,
+            "fat": "18g",
+            "carbs": "25g",
+            "protein": "35g"
+        }
+    },
+    {
+        "recipe_id": 18,
+        "recipe_name": "Vegetable Samosa",
+        "image": "https://i.pinimg.com/236x/7e/b3/11/7eb3112f4755c2bb7d7772c240ebf63c.jpg",
+        "category": "appetizer",
+        "prep_time": 30,
+        "cook_time": 20,
+        "recipe_making_time": 50,
+        "ingredients": [
+            "1 cup boiled potatoes, diced",
+            "1/2 cup peas",
+            "1/2 cup carrots, diced",
+            "1 teaspoon cumin",
+            "1 teaspoon coriander",
+            "1 teaspoon garam masala",
+            "Samosa wrappers",
+            "Oil for frying"
+        ],
+        "recipe_instructions": {
+            "steps": [
+                "In a pan, sauté cumin, coriander, and garam masala for 1 minute.",
+                "Add the boiled potatoes, peas, and carrots. Cook for 5 minutes.",
+                "Allow the filling to cool, then stuff into the samosa wrappers.",
+                "Fry the samosas in hot oil until golden brown and crispy.",
+                "Serve with chutney or yogurt sauce."
+            ]
+        },
+        "nutrition": {
+            "calories": 250,
+            "fat": "10g",
+            "carbs": "35g",
+            "protein": "5g"
+        }
+    },
+    {
+        "recipe_id": 19,
+        "recipe_name": "Chicken Biryani",
+        "image": "https://i.pinimg.com/236x/4f/09/2b/4f092b371595f0d1b2ef23f84647e141.jpg",
+        "category": "main_course",
+        "prep_time": 30,
+        "cook_time": 50,
+        "recipe_making_time": 80,
+        "ingredients": [
+            "500g halal chicken, bone-in",
+            "2 cups basmati rice",
+            "1 large onion, sliced",
+            "2 tomatoes, chopped",
+            "1 tablespoon garam masala",
+            "1 teaspoon cumin",
+            "1 teaspoon garlic, minced",
+            "1 teaspoon ginger, minced",
+            "Fresh cilantro for garnish"
+        ],
+        "recipe_instructions": {
+            "steps": [
+                "Cook the basmati rice until half done and set aside.",
+                "In a pot, sauté onions, garlic, and ginger until fragrant.",
+                "Add garam masala, cumin, and chicken, and cook until the chicken is browned.",
+                "Add tomatoes and simmer for 20 minutes.",
+                "Layer the chicken with the half-cooked rice, cover, and steam for 15 minutes.",
+                "Garnish with fresh cilantro and serve hot."
+            ]
+        },
+        "nutrition": {
+            "calories": 480,
+            "fat": "20g",
+            "carbs": "60g",
+            "protein": "30g"
+        }
+    },
+    {
+        "recipe_id": 20,
+        "recipe_name": "Mutton Karahi",
+        "image": "https://i.pinimg.com/236x/22/09/2e/22092ee266c1d57859cda83a0da4ef5f.jpg",
+        "category": "main_course",
+        "prep_time": 25,
+        "cook_time": 40,
+        "recipe_making_time": 65,
+        "ingredients": [
+            "500g halal mutton, cubed",
+            "2 tomatoes, chopped",
+            "1 onion, sliced",
+            "1 tablespoon ginger paste",
+            "1 tablespoon garlic paste",
+            "1 teaspoon cumin",
+            "1 teaspoon red chili powder",
+            "Salt",
+            "Fresh coriander for garnish"
+        ],
+        "recipe_instructions": {
+            "steps": [
+                "In a karahi (wok), heat oil and sauté onion, garlic paste, and ginger paste.",
+                "Add mutton and cook until browned.",
+                "Add tomatoes, cumin, chili powder, and salt. Simmer until mutton is tender, about 30-40 minutes.",
+                "Garnish with fresh coriander and serve hot with naan or rice."
+            ]
+        },
+        "nutrition": {
+            "calories": 500,
+            "fat": "22g",
+            "carbs": "15g",
+            "protein": "45g"
+        }
+    },
+    {
+        "recipe_id": 21,
+        "recipe_name": "Mango Lassi",
+        "image": "https://i.pinimg.com/236x/9a/a9/db/9aa9db5360615bb1d52b3eb142c50e92.jpg",
+        "category": "drink",
+        "prep_time": 10,
+        "cook_time": 0,
+        "recipe_making_time": 10,
+        "ingredients": [
+            "1 cup yogurt",
+            "1 ripe mango, peeled and chopped",
+            "1/2 cup milk",
+            "2 tablespoons sugar",
+            "1/2 teaspoon cardamom powder",
+            "Ice cubes"
+        ],
+        "recipe_instructions": {
+            "steps": [
+                "In a blender, combine yogurt, mango, milk, sugar, and cardamom powder.",
+                "Blend until smooth and creamy.",
+                "Add ice cubes and blend again.",
+                "Serve chilled in glasses."
+            ]
+        },
+        "nutrition": {
+            "calories": 150,
+            "fat": "4g",
+            "carbs": "30g",
+            "protein": "5g"
+        }
+    },
+    {
+        "recipe_id": 22,
+        "recipe_name": "Baklava",
+        "image": "https://i.pinimg.com/236x/e4/e0/f1/e4e0f18addf75647ad2ff521a466d734.jpg",
+        "category": "dessert",
+        "prep_time": 30,
+        "cook_time": 45,
+        "recipe_making_time": 75,
+        "ingredients": [
+            "1 package phyllo pastry",
+            "2 cups walnuts, chopped",
+            "1 cup butter, melted",
+            "1 cup sugar",
+            "1 cup water",
+            "1 teaspoon vanilla extract",
+            "1 teaspoon cinnamon"
+        ],
+        "recipe_instructions": {
+            "steps": [
+                "Preheat oven to 350°F (175°C).",
+                "In a bowl, mix walnuts, cinnamon, and half the sugar.",
+                "Layer phyllo sheets in a greased baking dish, brushing each with melted butter.",
+                "Spread the walnut mixture on top, and layer more phyllo sheets on top.",
+                "Cut into diamond shapes and bake for 45 minutes until golden.",
+                "In a saucepan, boil water and the remaining sugar until syrupy. Add vanilla.",
+                "Pour the syrup over the baked baklava and let it soak before serving."
+            ]
+        },
+        "nutrition": {
+            "calories": 300,
+            "fat": "20g",
+            "carbs": "35g",
+            "protein": "5g"
+        }
+    },
+    {
+        "recipe_id": 23,
+        "recipe_name": "Falafel",
+        "image": "https://i.pinimg.com/236x/18/8c/2a/188c2a49ab3882225c28d93b8950862c.jpg",
+        "category": "appetizer",
+        "prep_time": 20,
+        "cook_time": 15,
+        "recipe_making_time": 35,
+        "ingredients": [
+            "1 cup dried chickpeas, soaked overnight",
+            "1 onion, chopped",
+            "2 cloves garlic, minced",
+            "1 tablespoon cumin",
+            "1 tablespoon coriander",
+            "Salt",
+            "Oil for frying",
+            "Pita bread and tahini sauce for serving"
+        ],
+        "recipe_instructions": {
+            "steps": [
+                "Drain and rinse soaked chickpeas.",
+                "In a food processor, blend chickpeas, onion, garlic, cumin, coriander, and salt until coarse.",
+                "Form mixture into small balls or patties.",
+                "Heat oil in a pan and fry the falafel until golden brown.",
+                "Serve with pita bread and tahini sauce."
+            ]
+        },
+        "nutrition": {
+            "calories": 250,
+            "fat": "10g",
+            "carbs": "35g",
+            "protein": "10g"
+        }
+    },
+    {
+        "recipe_id": 24,
+        "recipe_name": "Chocolate Date Balls",
+        "image": "https://i.pinimg.com/236x/69/52/8e/69528e92763186e402edfa33f8e0ddc7.jpg",
+        "category": "dessert",
+        "prep_time": 15,
+        "cook_time": 0,
+        "recipe_making_time": 15,
+        "ingredients": [
+            "1 cup pitted dates",
+            "1/2 cup nuts (walnuts or almonds)",
+            "2 tablespoons cocoa powder",
+            "1 tablespoon honey",
+            "Desiccated coconut for rolling"
+        ],
+        "recipe_instructions": {
+            "steps": [
+                "In a food processor, combine dates, nuts, cocoa powder, and honey.",
+                "Blend until a sticky dough forms.",
+                "Roll the mixture into small balls.",
+                "Roll the balls in desiccated coconut.",
+                "Refrigerate for 30 minutes before serving."
+            ]
+        },
+        "nutrition": {
+            "calories": 120,
+            "fat": "7g",
+            "carbs": "15g",
+            "protein": "2g"
+        }
+    },
+    {
+        "recipe_id": 25,
+        "recipe_name": "Chickpea Salad",
+        "image": "https://i.pinimg.com/236x/b3/7a/f0/b37af04679e7902169785abb148e74f2.jpg",
+        "category": "salad",
+        "prep_time": 15,
+        "cook_time": 0,
+        "recipe_making_time": 15,
+        "ingredients": [
+            "1 can chickpeas, drained and rinsed",
+            "1 cucumber, diced",
+            "1 bell pepper, diced",
+            "1/4 red onion, finely chopped",
+            "1/4 cup fresh parsley, chopped",
+            "2 tablespoons olive oil",
+            "1 tablespoon lemon juice",
+            "Salt and pepper to taste"
+        ],
+        "recipe_instructions": {
+            "steps": [
+                "In a large bowl, combine chickpeas, cucumber, bell pepper, red onion, and parsley.",
+                "In a small bowl, whisk together olive oil, lemon juice, salt, and pepper.",
+                "Pour the dressing over the salad and toss to combine.",
+                "Serve chilled or at room temperature."
+            ]
+        },
+        "nutrition": {
+            "calories": 200,
+            "fat": "8g",
+            "carbs": "26g",
+            "protein": "10g"
+        }
+    },
+    {
+        "recipe_id": 26,
+        "recipe_name": "Stuffed Bell Peppers",
+        "image": "https://i.pinimg.com/474x/0d/0f/34/0d0f346b3b6297da66b2ba085188af79.jpg",
+        "category": "main_course",
+        "prep_time": 20,
+        "cook_time": 30,
+        "recipe_making_time": 50,
+        "ingredients": [
+            "4 bell peppers, tops cut off and seeds removed",
+            "1 cup cooked rice",
+            "300g ground halal beef or turkey",
+            "1 can diced tomatoes",
+            "1 teaspoon Italian seasoning",
+            "Salt and pepper to taste",
+            "1 cup shredded cheese"
+        ],
+        "recipe_instructions": {
+            "steps": [
+                "Preheat oven to 375°F (190°C).",
+                "In a bowl, mix cooked rice, ground meat, diced tomatoes, Italian seasoning, salt, and pepper.",
+                "Stuff the mixture into the prepared bell peppers.",
+                "Place stuffed peppers in a baking dish and cover with foil.",
+                "Bake for 30 minutes, then uncover and sprinkle with cheese.",
+                "Bake for an additional 10 minutes until cheese is melted."
+            ]
+        },
+        "nutrition": {
+            "calories": 350,
+            "fat": "15g",
+            "carbs": "30g",
+            "protein": "25g"
+        }
+    },
+    {
+        "recipe_id": 27,
+        "recipe_name": "Coconut Rice Pudding",
+        "image": "https://i.pinimg.com/236x/6e/4f/7e/6e4f7e42230a54dba24e63ea292586db.jpg",
+        "category": "dessert",
+        "prep_time": 10,
+        "cook_time": 30,
+        "recipe_making_time": 40,
+        "ingredients": [
+            "1 cup rice",
+            "2 cups coconut milk",
+            "1 cup milk",
+            "1/2 cup sugar",
+            "1 teaspoon vanilla extract",
+            "Pinch of salt",
+            "Toasted coconut for garnish"
+        ],
+        "recipe_instructions": {
+            "steps": [
+                "In a saucepan, combine rice, coconut milk, milk, sugar, vanilla extract, and salt.",
+                "Bring to a boil, then reduce heat and simmer for 25-30 minutes, stirring occasionally.",
+                "Once thickened, remove from heat and let cool slightly.",
+                "Serve warm or chilled, garnished with toasted coconut."
+            ]
+        },
+        "nutrition": {
+            "calories": 250,
+            "fat": "12g",
+            "carbs": "35g",
+            "protein": "4g"
+        }
+    },
+    {
+        "recipe_id": 28,
+        "recipe_name": "Mint Lemonade",
+        "image": "https://i.pinimg.com/474x/96/5e/3f/965e3faa1cad12b0d08e767811343ca7.jpg",
+        "category": "drink",
+        "prep_time": 10,
+        "cook_time": 0,
+        "recipe_making_time": 10,
+        "ingredients": [
+            "1 cup fresh lemon juice",
+            "1/2 cup fresh mint leaves",
+            "1/2 cup sugar",
+            "4 cups water",
+            "Ice cubes",
+            "Lemon slices and mint sprigs for garnish"
+        ],
+        "recipe_instructions": {
+            "steps": [
+                "In a blender, combine lemon juice, mint leaves, sugar, and 1 cup of water.",
+                "Blend until mint is finely chopped.",
+                "Strain the mixture into a pitcher, discarding solids.",
+                "Add the remaining water and stir well.",
+                "Serve over ice, garnished with lemon slices and mint sprigs."
+            ]
+        },
+        "nutrition": {
+            "calories": 120,
+            "fat": "0g",
+            "carbs": "30g",
+            "protein": "1g"
+        }
+    },
+    {
+        "recipe_id": 29,
+        "recipe_name": "Lentil Soup",
+        "image": "https://i.pinimg.com/236x/4e/c3/b6/4ec3b69fd4a78cf1a23f4ccccd815e97.jpg",
+        "category": "soup",
+        "prep_time": 10,
+        "cook_time": 30,
+        "recipe_making_time": 40,
+        "ingredients": [
+            "1 cup lentils, rinsed",
+            "1 onion, chopped",
+            "2 carrots, diced",
+            "2 celery stalks, diced",
+            "3 cloves garlic, minced",
+            "1 teaspoon cumin",
+            "4 cups vegetable broth",
+            "Salt and pepper to taste",
+            "2 tablespoons olive oil"
+        ],
+        "recipe_instructions": {
+            "steps": [
+                "In a pot, heat olive oil over medium heat. Add onion, carrots, and celery; sauté until softened.",
+                "Add garlic and cumin, cooking for an additional minute.",
+                "Stir in lentils and broth, bringing to a boil.",
+                "Reduce heat and simmer for 25-30 minutes until lentils are tender.",
+                "Season with salt and pepper, and serve warm."
+            ]
+        },
+        "nutrition": {
+            "calories": 180,
+            "fat": "4g",
+            "carbs": "30g",
+            "protein": "10g"
+        }
+    },
+    {
+        "recipe_id": 30,
+        "recipe_name": "Falafel Wraps",
+        "image": "https://i.pinimg.com/236x/f3/ef/13/f3ef1305a8b7bd8d25afa978a3b8f62c.jpg",
+        "category": "main_course",
+        "prep_time": 15,
+        "cook_time": 10,
+        "recipe_making_time": 25,
+        "ingredients": [
+            "1 can chickpeas, drained",
+            "1/2 onion, chopped",
+            "2 cloves garlic, minced",
+            "1 tablespoon parsley, chopped",
+            "1 teaspoon cumin",
+            "Salt and pepper to taste",
+            "Oil for frying",
+            "Pita bread",
+            "Tahini sauce"
+        ],
+        "recipe_instructions": {
+            "steps": [
+                "In a food processor, combine chickpeas, onion, garlic, parsley, cumin, salt, and pepper; pulse until blended.",
+                "Form the mixture into small balls or patties.",
+                "Heat oil in a pan over medium heat; fry falafel until golden brown.",
+                "Serve wrapped in pita bread with tahini sauce and fresh vegetables."
+            ]
+        },
+        "nutrition": {
+            "calories": 250,
+            "fat": "10g",
+            "carbs": "30g",
+            "protein": "12g"
+        }
+    },
+    {
+        "recipe_id": 31,
+        "recipe_name": "Peach Mango Smoothie",
+        "image": "https://i.pinimg.com/236x/4f/17/50/4f1750b902618fcbf1a7826340f7d945.jpg",
+        "category": "drink",
+        "prep_time": 5,
+        "cook_time": 0,
+        "recipe_making_time": 5,
+        "ingredients": [
+            "1 ripe peach, pitted and chopped",
+            "1 ripe mango, peeled and chopped",
+            "1 cup yogurt",
+            "1/2 cup milk",
+            "1 tablespoon honey",
+            "Ice cubes"
+        ],
+        "recipe_instructions": {
+            "steps": [
+                "In a blender, combine peach, mango, yogurt, milk, honey, and ice cubes.",
+                "Blend until smooth and creamy.",
+                "Pour into glasses and serve immediately."
+            ]
+        },
+        "nutrition": {
+            "calories": 180,
+            "fat": "3g",
+            "carbs": "35g",
+            "protein": "6g"
+        }
+    },
+    {
+        "recipe_id": 32,
+        "recipe_name": "Chocolate Mousse",
+        "image": "https://i.pinimg.com/236x/50/35/97/50359785ee9933a2b271063257f7aaa4.jpg",
+        "category": "dessert",
+        "prep_time": 15,
+        "cook_time": 0,
+        "recipe_making_time": 15,
+        "ingredients": [
+            "200g dark chocolate, chopped",
+            "3 eggs, separated",
+            "1/4 cup sugar",
+            "1 cup heavy cream",
+            "1 teaspoon vanilla extract",
+            "Pinch of salt"
+        ],
+        "recipe_instructions": {
+            "steps": [
+                "Melt dark chocolate in a bowl over simmering water, stirring until smooth.",
+                "In a separate bowl, whisk egg yolks with sugar until pale.",
+                "Fold melted chocolate into the egg yolk mixture.",
+                "In another bowl, whip cream with vanilla until soft peaks form.",
+                "Fold whipped cream into chocolate mixture.",
+                "In a clean bowl, beat egg whites with salt until stiff peaks form, then fold into chocolate mixture.",
+                "Spoon into serving dishes and chill for at least 2 hours before serving."
+            ]
+        },
+        "nutrition": {
+            "calories": 300,
+            "fat": "25g",
+            "carbs": "20g",
+            "protein": "6g"
+        }
+    },
+    {
+        "recipe_id": 33,
+        "recipe_name": "Grilled Salmon",
+        "image": "https://i.pinimg.com/236x/a1/dc/8e/a1dc8e1994cbce90f8979054b6272578.jpg",
+        "category": "main_course",
+        "prep_time": 10,
+        "cook_time": 15,
+        "recipe_making_time": 25,
+        "ingredients": [
+            "4 salmon fillets",
+            "2 tablespoons olive oil",
+            "2 cloves garlic, minced",
+            "1 tablespoon lemon juice",
+            "Salt and pepper to taste",
+            "Lemon slices for garnish"
+        ],
+        "recipe_instructions": {
+            "steps": [
+                "In a small bowl, mix olive oil, garlic, lemon juice, salt, and pepper.",
+                "Brush the mixture over the salmon fillets.",
+                "Preheat grill over medium heat.",
+                "Grill salmon for about 6-7 minutes on each side until cooked through.",
+                "Serve garnished with lemon slices."
+            ]
+        },
+        "nutrition": {
+            "calories": 250,
+            "fat": "15g",
+            "carbs": "0g",
+            "protein": "25g"
+        }
+    },
+    {
+        "recipe_id": 34,
+        "recipe_name": "Banana Bread",
+        "image": "https://i.pinimg.com/236x/f6/c5/49/f6c5494c6bf5adb6478f84b5300e8278.jpg",
+        "category": "dessert",
+        "prep_time": 15,
+        "cook_time": 50,
+        "recipe_making_time": 1,
+        "ingredients": [
+            "3 ripe bananas, mashed",
+            "1/3 cup melted butter",
+            "1 teaspoon baking soda",
+            "Pinch of salt",
+            "3/4 cup sugar",
+            "1 large egg, beaten",
+            "1 teaspoon vanilla extract",
+            "1 cup all-purpose flour"
+        ],
+        "recipe_instructions": {
+            "steps": [
+                "Preheat oven to 350°F (175°C).",
+                "In a mixing bowl, mix mashed bananas with melted butter.",
+                "Stir in baking soda and salt.",
+                "Mix in sugar, beaten egg, and vanilla.",
+                "Stir in flour until just incorporated.",
+                "Pour batter into a greased loaf pan and bake for 50 minutes.",
+                "Cool before slicing."
+            ]
+        }
+    },
+    {
+        "recipe_id": 35,
+        "recipe_name": "Honeydew Smoothie",
+        "image": "https://i.pinimg.com/236x/fa/d8/7e/fad87e649f53b53dbc20c543deff8dbf.jpg",
+        "category": "drink",
+        "prep_time": 5,
+        "cook_time": 0,
+        "recipe_making_time": 5,
+        "ingredients": [
+            "2 cups honeydew melon, cubed",
+            "1/2 cup yogurt",
+            "1 tablespoon honey",
+            "1/2 cup ice cubes",
+            "Mint leaves for garnish"
+        ],
+        "recipe_instructions": {
+            "steps": [
+                "In a blender, combine honeydew, yogurt, honey, and ice cubes.",
+                "Blend until smooth and creamy.",
+                "Pour into glasses and garnish with mint leaves."
+            ]
+        },
+        "nutrition": {
+            "calories": 120,
+            "fat": "1g",
+            "carbs": "30g",
+            "protein": "3g"
+        }
+    },
+    {
+        "recipe_id": 36,
+        "recipe_name": "Apple Crisp",
+        "image": "https://i.pinimg.com/236x/4c/f1/6d/4cf16dc1f3864799460edf2668251019.jpg",
+        "category": "dessert",
+        "prep_time": 15,
+        "cook_time": 30,
+        "recipe_making_time": 45,
+        "ingredients": [
+            "4 cups sliced apples",
+            "1 cup oats",
+            "1/2 cup brown sugar",
+            "1/2 cup flour",
+            "1/2 teaspoon cinnamon",
+            "1/4 cup butter, melted",
+            "Vanilla ice cream for serving (optional)"
+        ],
+        "recipe_instructions": {
+            "steps": [
+                "Preheat oven to 350°F (175°C).",
+                "In a baking dish, layer sliced apples.",
+                "In a bowl, combine oats, brown sugar, flour, cinnamon, and melted butter; mix until crumbly.",
+                "Spread oat mixture over the apples.",
+                "Bake for 30 minutes until apples are tender and topping is golden brown.",
+                "Serve warm with vanilla ice cream, if desired."
+            ]
+        },
+        "nutrition": {
+            "calories": 220,
+            "fat": "8g",
+            "carbs": "36g",
+            "protein": "3g"
+        }
+    },
+    {
+        "recipe_id": 37,
+        "recipe_name": "Beef Kofta Kebabs",
+        "image": "https://i.pinimg.com/236x/77/ef/02/77ef0229a8371d5455e7560f7b25e655.jpg",
+        "category": "main_course",
+        "prep_time": 20,
+        "cook_time": 15,
+        "recipe_making_time": 35,
+        "ingredients": [
+            "1 lb ground beef",
+            "1 small onion, grated",
+            "2 cloves garlic, minced",
+            "1 tablespoon cumin",
+            "1 tablespoon coriander",
+            "Salt and pepper to taste",
+            "Skewers (soaked in water if wooden)",
+            "Olive oil for brushing"
+        ],
+        "recipe_instructions": {
+            "steps": [
+                "In a large bowl, combine ground beef, grated onion, garlic, cumin, coriander, salt, and pepper.",
+                "Mix until well combined and form into long, oval shapes on skewers.",
+                "Preheat grill or skillet over medium heat.",
+                "Brush kebabs with olive oil and grill for 8-10 minutes, turning occasionally, until cooked through.",
+                "Serve with pita and tzatziki sauce."
+            ]
+        },
+        "nutrition": {
+            "calories": 320,
+            "fat": "20g",
+            "carbs": "2g",
+            "protein": "30g"
+        }
+    },
+    {
+        "recipe_id": 38,
+        "recipe_name": "Vegetable Stir-Fry",
+        "image": "https://i.pinimg.com/236x/74/03/f3/7403f30ea605c502b7c27a822fb0c74b.jpg",
+        "category": "main_course",
+        "prep_time": 10,
+        "cook_time": 15,
+        "recipe_making_time": 25,
+        "ingredients": [
+            "2 cups mixed vegetables (bell peppers, broccoli, carrots)",
+            "2 tablespoons soy sauce",
+            "1 tablespoon sesame oil",
+            "1 teaspoon ginger, grated",
+            "2 cloves garlic, minced",
+            "Cooked rice or noodles for serving",
+            "Sesame seeds for garnish"
+        ],
+        "recipe_instructions": {
+            "steps": [
+                "In a large pan, heat sesame oil over medium-high heat.",
+                "Add garlic and ginger; stir-fry for 1 minute.",
+                "Add mixed vegetables and stir-fry for 5-7 minutes until tender.",
+                "Stir in soy sauce and cook for an additional 2 minutes.",
+                "Serve over cooked rice or noodles, garnished with sesame seeds."
+            ]
+        },
+        "nutrition": {
+            "calories": 200,
+            "fat": "8g",
+            "carbs": "30g",
+            "protein": "5g"
+        }
+    },
+    {
+        "recipe_id": 39,
+        "recipe_name": "Chocolate Chip Cookies",
+        "image": "https://i.pinimg.com/236x/34/55/a6/3455a6804e402b99fe9eb4c0e4c8724d.jpg",
+        "category": "dessert",
+        "prep_time": 10,
+        "cook_time": 12,
+        "recipe_making_time": 22,
+        "ingredients": [
+            "1 cup butter, softened",
+            "1 cup granulated sugar",
+            "1 cup brown sugar",
+            "2 eggs",
+            "2 teaspoons vanilla extract",
+            "3 cups all-purpose flour",
+            "1 teaspoon baking soda",
+            "1/2 teaspoon salt",
+            "2 cups chocolate chips"
+        ],
+        "recipe_instructions": {
+            "steps": [
+                "Preheat oven to 375°F (190°C).",
+                "In a bowl, cream together butter, granulated sugar, and brown sugar.",
+                "Beat in eggs and vanilla extract until smooth.",
+                "In another bowl, whisk together flour, baking soda, and salt.",
+                "Gradually blend the dry ingredients into the wet mixture.",
+                "Stir in chocolate chips.",
+                "Drop spoonfuls onto baking sheets and bake for 10-12 minutes."
+            ]
+        },
+        "nutrition": {
+            "calories": 250,
+            "fat": "12g",
+            "carbs": "36g",
+            "protein": "3g"
+        }
+    },
+    {
+        "recipe_id": 40,
+        "recipe_name": "Spaghetti",
+        "image": "https://i.pinimg.com/236x/e8/dd/3a/e8dd3a0652c997e2ccb0c45e773cd228.jpg",
+        "category": "main_course",
+        "prep_time": 10,
+        "cook_time": 15,
+        "recipe_making_time": 25,
+        "ingredients": [
+            "8 oz spaghetti",
+            "2 tablespoons olive oil",
+            "3 cloves garlic, minced",
+            "1 can (14 oz) diced tomatoes",
+            "1 teaspoon dried basil",
+            "Salt and pepper to taste",
+            "Grated Parmesan cheese for serving"
+        ],
+        "recipe_instructions": {
+            "steps": [
+                "Cook spaghetti according to package instructions; drain.",
+                "In a pan, heat olive oil and sauté garlic until fragrant.",
+                "Add diced tomatoes and basil; simmer for 10 minutes.",
+                "Toss the cooked spaghetti in the sauce, season with salt and pepper.",
+                "Serve with grated Parmesan cheese."
+            ]
+        },
+        "nutrition": {
+            "calories": 320,
+            "fat": "10g",
+            "carbs": "48g",
+            "protein": "12g"
+        }
+    },
+    {
+        "recipe_id": 41,
+        "recipe_name": "Chicken Alfredo",
+        "image": "https://i.pinimg.com/236x/90/e0/56/90e056e1046073d707f1ff57ed168c6e.jpg",
+        "category": "main_course",
+        "prep_time": 10,
+        "cook_time": 15,
+        "recipe_making_time": 25,
+        "ingredients": [
+            "8 oz fettuccine",
+            "1 tablespoon olive oil",
+            "1 lb chicken breast, sliced",
+            "2 cups heavy cream",
+            "1 cup grated Parmesan cheese",
+            "Salt and pepper to taste",
+            "Parsley for garnish"
+        ],
+        "recipe_instructions": {
+            "steps": [
+                "Cook fettuccine according to package instructions; drain.",
+                "In a skillet, heat olive oil and cook chicken until no longer pink.",
+                "Add heavy cream and bring to a simmer.",
+                "Stir in Parmesan cheese until melted and smooth.",
+                "Combine chicken and sauce with fettuccine; season with salt and pepper.",
+                "Garnish with parsley before serving."
+            ]
+        },
+        "nutrition": {
+            "calories": 600,
+            "fat": "35g",
+            "carbs": "50g",
+            "protein": "30g"
+        }
+    },
+    {
+        "recipe_id": 42,
+        "recipe_name": "Grilled Cheese Sandwich",
+        "image": "https://i.pinimg.com/236x/c1/23/19/c123196e4f9279f763ba4b38786842c1.jpg",
+        "category": "snack",
+        "prep_time": 5,
+        "cook_time": 5,
+        "recipe_making_time": 10,
+        "ingredients": [
+            "2 slices of bread",
+            "2 slices of cheese (cheddar or American)",
+            "1 tablespoon butter"
+        ],
+        "recipe_instructions": {
+            "steps": [
+                "Heat a skillet over medium heat.",
+                "Butter one side of each slice of bread.",
+                "Place one slice in the skillet, buttered side down, and add cheese on top.",
+                "Cover with the other slice of bread, buttered side up.",
+                "Cook until golden brown on both sides and cheese is melted."
+            ]
+        },
+        "nutrition": {
+            "calories": 300,
+            "fat": "20g",
+            "carbs": "30g",
+            "protein": "10g"
+        }
+    },
+    {
+        "recipe_id": 43,
+        "recipe_name": "Pancakes",
+        "image": "https://i.pinimg.com/236x/98/6e/80/986e8020d901fe1c313e9460495ec5c3.jpg",
+        "category": "breakfast",
+        "prep_time": 10,
+        "cook_time": 10,
+        "recipe_making_time": 20,
+        "ingredients": [
+            "1 cup all-purpose flour",
+            "2 tablespoons sugar",
+            "1 tablespoon baking powder",
+            "1/2 teaspoon salt",
+            "1 cup milk",
+            "1 egg",
+            "2 tablespoons melted butter",
+            "Maple syrup for serving"
+        ],
+        "recipe_instructions": {
+            "steps": [
+                "In a bowl, mix flour, sugar, baking powder, and salt.",
+                "In another bowl, whisk milk, egg, and melted butter.",
+                "Pour wet ingredients into dry ingredients and stir until just combined.",
+                "Heat a skillet over medium heat and pour batter to form pancakes.",
+                "Cook until bubbles form, then flip and cook until golden brown.",
+                "Serve with maple syrup."
+            ]
+        },
+        "nutrition": {
+            "calories": 350,
+            "fat": "12g",
+            "carbs": "52g",
+            "protein": "8g"
+        }
+    },
+    {
+        "recipe_id": 44,
+        "recipe_name": "Lasagna",
+        "image": "https://i.pinimg.com/236x/fc/43/c9/fc43c92015b09ae35ae45d1ecc1f99f3.jpg",
+        "category": "main_course",
+        "prep_time": 20,
+        "cook_time": 45,
+        "recipe_making_time": 65,
+        "ingredients": [
+            "9 lasagna noodles",
+            "1 lb ground beef",
+            "2 cups ricotta cheese",
+            "3 cups marinara sauce",
+            "2 cups shredded mozzarella cheese",
+            "1/2 cup grated Parmesan cheese",
+            "1 egg",
+            "Salt and pepper to taste"
+        ],
+        "recipe_instructions": {
+            "steps": [
+                "Preheat oven to 375°F (190°C).",
+                "Cook lasagna noodles according to package instructions; drain.",
+                "In a skillet, cook ground beef until browned; drain fat.",
+                "In a bowl, mix ricotta cheese, egg, salt, and pepper.",
+                "In a baking dish, layer noodles, ricotta mixture, marinara sauce, ground beef, and mozzarella.",
+                "Repeat layers, finishing with mozzarella and Parmesan on top.",
+                "Cover with foil and bake for 30 minutes; remove foil and bake for an additional 15 minutes."
+            ]
+        },
+        "nutrition": {
+            "calories": 400,
+            "fat": "20g",
+            "carbs": "35g",
+            "protein": "25g"
+        }
+    },
+    {
+        "recipe_id": 45,
+        "recipe_name": "Chicken Curry",
+        "image": "https://i.pinimg.com/236x/d4/93/68/d49368fb6d5a39c467ac37eb472c7af1.jpg",
+        "category": "main_course",
+        "prep_time": 15,
+        "cook_time": 30,
+        "recipe_making_time": 45,
+        "ingredients": [
+            "1 lb chicken, cubed",
+            "2 tablespoons curry powder",
+            "1 onion, chopped",
+            "3 cloves garlic, minced",
+            "1 can coconut milk",
+            "1 cup chicken broth",
+            "Salt and pepper to taste",
+            "Chopped cilantro for garnish"
+        ],
+        "recipe_instructions": {
+            "steps": [
+                "In a pot, sauté onion and garlic until translucent.",
+                "Add chicken and cook until browned.",
+                "Stir in curry powder and cook for 1 minute.",
+                "Add coconut milk and chicken broth; simmer for 20 minutes.",
+                "Season with salt and pepper, garnish with cilantro before serving."
+            ]
+        },
+        "nutrition": {
+            "calories": 350,
+            "fat": "18g",
+            "carbs": "8g",
+            "protein": "35g"
+        }
+    },
+    {
+        "recipe_id": 46,
+        "recipe_name": "Pizza",
+        "image": "https://i.pinimg.com/236x/48/e3/1b/48e31b3a763803fa233fa59ac28ebfaf.jpg",
+        "category": "main_course",
+        "prep_time": 15,
+        "cook_time": 20,
+        "recipe_making_time": 35,
+        "ingredients": [
+            "1 pizza crust",
+            "1 cup marinara sauce",
+            "2 cups shredded mozzarella cheese",
+            "Toppings of choice (pepperoni, vegetables, etc.)",
+            "Oregano for garnish"
+        ],
+        "recipe_instructions": {
+            "steps": [
+                "Preheat oven to 475°F (245°C).",
+                "Spread marinara sauce over the pizza crust.",
+                "Top with mozzarella cheese and desired toppings.",
+                "Bake for 15-20 minutes until cheese is bubbly and crust is golden.",
+                "Garnish with oregano before serving."
+            ]
+        },
+        "nutrition": {
+            "calories": 300,
+            "fat": "10g",
+            "carbs": "30g",
+            "protein": "12g"
+        }
+    },
+    {
+        "recipe_id": 47,
+        "recipe_name": "French Toast",
+        "image": "https://i.pinimg.com/236x/92/e2/d0/92e2d036069a88751e81cab0e44217d5.jpg",
+        "category": "breakfast",
+        "prep_time": 5,
+        "cook_time": 10,
+        "recipe_making_time": 15,
+        "ingredients": [
+            "4 slices of bread",
+            "2 eggs",
+            "1 cup milk",
+            "1 teaspoon cinnamon",
+            "Butter for cooking",
+            "Maple syrup for serving"
+        ],
+        "recipe_instructions": {
+            "steps": [
+                "In a bowl, whisk eggs, milk, and cinnamon.",
+                "Dip bread slices in the mixture, coating both sides.",
+                "Heat butter in a skillet over medium heat.",
+                "Cook bread until golden brown on both sides.",
+                "Serve with maple syrup."
+            ]
+        },
+        "nutrition": {
+            "calories": 250,
+            "fat": "10g",
+            "carbs": "32g",
+            "protein": "8g"
+        }
+    },
+    {
+        "recipe_id": 48,
+        "recipe_name": "Hummus and Pita Bread",
+        "image": "https://i.pinimg.com/236x/5a/ca/c7/5acac7247432fc175f670150d7ae7d08.jpg",
+        "category": "snack",
+        "prep_time": 10,
+        "cook_time": 0,
+        "recipe_making_time": 10,
+        "ingredients": [
+            "1 can (15 oz) chickpeas, drained",
+            "1/4 cup tahini",
+            "2 tablespoons olive oil",
+            "2 tablespoons lemon juice",
+            "1 garlic clove",
+            "Salt to taste",
+            "Pita bread for serving"
+        ],
+        "recipe_instructions": {
+            "steps": [
+                "In a food processor, combine chickpeas, tahini, olive oil, lemon juice, garlic, and salt.",
+                "Blend until smooth, adding water if needed for desired consistency.",
+                "Serve with pita bread."
+            ]
+        },
+        "nutrition": {
+            "calories": 200,
+            "fat": "10g",
+            "carbs": "24g",
+            "protein": "6g"
+        }
+    },
+    {
+        "recipe_id": 49,
+        "recipe_name": "Thai Green Curry",
+        "image": "https://i.pinimg.com/236x/dd/f8/00/ddf800aca127679f361a4aa1eb230949.jpg",
+        "category": "main_course",
+        "prep_time": 15,
+        "cook_time": 30,
+        "recipe_making_time": 45,
+        "ingredients": [
+            "1 lb chicken or tofu, cubed",
+            "2 tablespoons green curry paste",
+            "1 can (14 oz) coconut milk",
+            "1 cup chicken broth",
+            "2 cups mixed vegetables (bell peppers, zucchini, etc.)",
+            "Fresh basil for garnish",
+            "Salt to taste"
+        ],
+        "recipe_instructions": {
+            "steps": [
+                "In a pot, sauté green curry paste for 1 minute.",
+                "Add chicken or tofu and cook until browned.",
+                "Pour in coconut milk and chicken broth; bring to a simmer.",
+                "Add mixed vegetables and cook until tender.",
+                "Season with salt, garnish with fresh basil before serving."
+            ]
+        },
+        "nutrition": {
+            "calories": 350,
+            "fat": "25g",
+            "carbs": "15g",
+            "protein": "20g"
+        }
+    }
+]

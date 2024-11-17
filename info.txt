@@ -1,0 +1,77 @@
+ Database schema for the recipes. This schema consists of three tables: 
+ `recipes`, 
+ `ingredients` and 
+ `nutrition`. 
+ 
+
+### Database Schema
+
+#### 1. `recipes` Table
+
+| Column Name        | Data Type    | Constraints                 | Description                                   |
+|--------------------|--------------|-----------------------------|-----------------------------------------------|
+| `recipe_id`        | INT          | PRIMARY KEY, AUTO_INCREMENT | Unique identifier for each recipe            |
+| `recipe_name`      | VARCHAR(255) | NOT NULL                    | Name of the recipe                           |
+| `category`         | VARCHAR(100) | NOT NULL                    | Category of the recipe (e.g., main_course)  |
+| `prep_time`        | INT          | NOT NULL                    | Preparation time in minutes                   |
+| `cook_time`        | INT          | NOT NULL                    | Cooking time in minutes                       |
+| `recipe_making_time` | INT        | NOT NULL                    | Total time to make the recipe in minutes     |
+| `instructions`     | TEXT         | NOT NULL                    | Step-by-step instructions for the recipe     |
+
+#### 2. `ingredients` Table
+
+| Column Name        | Data Type    | Constraints                 | Description                                   |
+|--------------------|--------------|-----------------------------|-----------------------------------------------|
+| `ingredient_id`    | INT          | PRIMARY KEY, AUTO_INCREMENT | Unique identifier for each ingredient         |
+| `recipe_id`        | INT          | FOREIGN KEY                 | References `recipe_id` in `recipes` table    |
+| `ingredient_name`  | VARCHAR(255) | NOT NULL                    | Name of the ingredient                        |
+| `quantity`         | VARCHAR(100) | NOT NULL                    | Quantity of the ingredient                    |
+
+#### 3. `nutrition` Table
+
+| Column Name        | Data Type    | Constraints                 | Description                                   |
+|--------------------|--------------|-----------------------------|-----------------------------------------------|
+| `nutrition_id`     | INT          | PRIMARY KEY, AUTO_INCREMENT | Unique identifier for nutrition information   |
+| `recipe_id`        | INT          | FOREIGN KEY                 | References `recipe_id` in `recipes` table    |
+| `calories`         | INT          | NOT NULL                    | Total calories per serving                    |
+| `fat`              | VARCHAR(50)  | NOT NULL                    | Total fat content                             |
+| `carbs`            | VARCHAR(50)  | NOT NULL                    | Total carbohydrate content                    |
+| `protein`          | VARCHAR(50)  | NOT NULL                    | Total protein content                         |
+
+### Relationships
+
+- The `recipes` table is the main table where each recipe is defined.
+- The `ingredients` table links to the `recipes` table through the `recipe_id` foreign key, allowing multiple ingredients to be associated with a single recipe.
+- The `nutrition` table also links to the `recipes` table through the `recipe_id` foreign key, allowing each recipe to have specific nutrition information.
+
+
+
+
+
+
+
+
+practice
+// Routes
+
+// for rendering HTML Doc ----SSR
+// app.get("/recipes", (req, res) =>{
+//     const html = `
+//     <ul>
+//     ${recipes.map((resp)=> `<li><img src=${resp.image} /></li>`).join("")}
+//     </ul>
+//     `
+//      res.send(html);
+// })
+
+// For JSON Data
+// app.get("/api/recipes", (req, res)=>{
+//     return res.json(recipes);
+// })
+
+// Dynamic
+// app.get("/api/recipes/:id", (req, res) =>{
+//     const id = Number(req.params.id);
+//     const recipe = recipes.find((recipe) => recipe.recipe_id === id);
+//     return res.json(recipe);
+// })
